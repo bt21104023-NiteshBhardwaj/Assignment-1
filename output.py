@@ -1,58 +1,57 @@
 Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
-=== RESTART: D:\NITESH FILES\PROJECTS\Pyhton projects\Combined Assignment.py ===
+= RESTART: D:\NITESH FILES\PROJECTS\Pyhton projects\Assignment 2\Combined Assignment 2.py
 
 
 
 
-WELCOME
-Enter first number:10
-Enter second number:20
-Enter third number:30
-The average of the entered three number is 20.0
+a) 35
+b) egaugnal evitisnes esac a si nohtyP
+c) a case sensitive
+d) Python is object oriented language
+e) 10
+f) Pythonisacasesensitivelanguage
 
 
 
 
-Let's calculate your income tax 
-if u have income less than 30000 u will not have to pay any tax
-
-What is your income : 50000
-You will have a standard deduction of 10000$
-How many dependent do u have :5
-You will have a deduction of 3000$ per dependent 
-Your taxable income is 25000.0$
-Hence u will have to pay 5000.0$ as tax
+Hey, Nitesh Bhardwaj Here!
+My SID is 21104023
+I am from Electrical department and my CGPA is 9.9
 
 
 
 
-Enter the following values to obtain a list
-Enter your name: Nitesh Bhardwaj
-Enter your SID: 21104023
-Enter your gender ('M' 'F' 'U'): M
-Enter your course name: Electrical
-Enter your CGPA: 10
-[21104023, 'Nitesh Bhardwaj', 'M', 'Electrical', 10.0]
+a) a&b :  8
+b) a|b :  58
+c) a^b :  50
+d) left shift a with 2 bits : 224 	  left shift b with 2 bits : 40
+e) right shift a with 2 bits : 14 	  right shift b with 4 bits : 0
 
 
 
 
-Enter marks of 1st student :5
-Enter marks of 2nd student :9
-Enter marks of 3rd student :8
-Enter marks of 4th student :10
-Enter marks of 5th student :2
-normal list [5, 9, 8, 10, 2]
-sorted list [2, 5, 8, 9, 10]
+Enter the first number:9
+Enter the second number:8
+Enter the third number:22
+The greatest number is  22.0
 
 
 
 
-normal output =['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-output of part a = ['Red', 'Green', 'White', 'Pink', 'Yellow']
-output of part b = ['Red', 'Green', 'White', 'Purple', 'Purple', 'Yellow']
+Please give input string : mynameisnitesh
+is "name" there in the string : 
+yes
+
+
+
+
+Enter the length of side 1: 6
+Enter the length of side 2: 8
+Enter the length of side 3: 4
+Can the triangle be formed ??
+Yes
 
 
 
